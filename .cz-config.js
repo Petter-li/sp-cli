@@ -16,8 +16,6 @@ module.exports = {
   messages: {
     type: '选择更改类型:\n',
     customScope: '更改的范围:\n',
-    // 如果allowcustomscopes为true，则使用
-    // customScope: 'Denote the SCOPE of this change:',
     subject: '简短描述:\n',
     body: '详细描述. 使用"|"换行:\n',
     breaking: 'Breaking Changes列表:\n',
