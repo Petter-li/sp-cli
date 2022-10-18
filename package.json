@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "git-cz",
-    "cmt": "git-cz"
+    "commit": "git-cz"
   },
   "config": {
     "commitizen": {
